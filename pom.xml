@@ -12,6 +12,7 @@
         <module>userprofile</module>
         <module>recommend</module>
         <module>commons</module>
+        <module>olap_web</module>
     </modules>
 
     <properties>
