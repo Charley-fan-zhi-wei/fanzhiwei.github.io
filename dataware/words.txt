@@ -1,0 +1,4 @@
+hello spark scala
+hi java flink
+redis clickhouse elastic search
+hello java java

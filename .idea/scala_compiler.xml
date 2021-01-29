@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="recommend">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\recommend\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="data_warehouse">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\dataware\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="userprofile">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\userprofile\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="doit_yiee">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="commons">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\commons\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="olap_web">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workspace\doit_yiee\olap_web\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
